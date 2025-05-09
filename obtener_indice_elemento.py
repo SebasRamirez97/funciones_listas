@@ -7,8 +7,8 @@ def obtener_indice(lista: list, elemento: int|float|str|bool|list)->int:
         elemento: int | float | str | bool | list
     ### Returns:
         int
-
     '''
+
     for i in range(len(lista)):
         if lista[i] == elemento:
             return i 
