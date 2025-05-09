@@ -1,5 +1,6 @@
 def eliminar(lista: list)->int:
     ''' Elimina el ultimo elemento de la lista y lo retorna.
+    
     ### Args:
         lista: list
     ### Returns:
