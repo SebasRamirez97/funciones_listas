@@ -10,11 +10,4 @@ def agregar(lista: list, elemento: int|float|str|bool|list) -> None:
     '''
     
     lista += [elemento]
-
-
-
-
-
-
-
-
+    
